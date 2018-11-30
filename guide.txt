@@ -1,0 +1,23 @@
+# Why use Selenium Grid
+
+# Why Docker
+
+
+
+# Spin up docker with D.O.
+
+# docker-compose.yml
+
+
+# Check it is workin
+
+
+# scale nodes
+
+
+# connect with VNC viewer ?
+
+
+# swarm
+
+# How to use
